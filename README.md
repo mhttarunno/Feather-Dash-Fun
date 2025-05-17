@@ -1,4 +1,4 @@
-# 🐦 Funny Flappy Bird
+# 🐦 Funny Feather Dash
 
 I built a funny Flappy Bird game using HTML, CSS, and JavaScript!
 
