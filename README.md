@@ -17,4 +17,4 @@ I built a funny Flappy Bird game using HTML, CSS, and JavaScript!
 ## 🛠 Tech Used
 HTML, CSS, JavaScript
 
-Love mixing code with humor. Enjoy the chaos!
+Entertainment in mixing code with humor. Enjoy the chaos!
